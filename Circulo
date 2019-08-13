@@ -1,1 +1,5 @@
-class Circulo
+public class Circulo{
+  private static double PI = 3.141516;
+  private static double raio;
+  public static double 
+}
